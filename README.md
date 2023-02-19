@@ -2,7 +2,7 @@
 Install Google Chrome Silently - shimultechtips
 
 How To Use:
-01. First Download These 3 Files And Rename As Below Format.
+01. First Download These 3 Files And Rename As Below Format.\n
 02. There Will Be 3 Files In The Directory:
 A. "Google Chrome x64 - shimultechtips.exe" - Google Chrome x64 Standalone Installer.
 B. "Google Chrome x86 - shimultechtips.exe" - Google Chrome x86 Standalone Installer.
